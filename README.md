@@ -1,7 +1,12 @@
 - 👋 Hi, I’m Aakash Jha
 - 👀 I’m interested in developing new & useful things, which are functional & helpful.
-- 🌱 Diving into the world of new technologies to broaden my skillset and enhance my problem-solving abilities.
-- 💡 Till now , I have done all these things : Python, Mysql, C,C++, HTML,CSS, JavaScript
+- 🌱 Diving into the world of new technologies to broaden my skillset and enhance my problem-solving and development abilities.
+-💡 Technical knowledge 💻  :
+• Python 🐍 (Matplotlib, numpy ,pandas ,etc)        
+• Django                • Mysql
+•  C                    • DSA
+• HTML                  • CSS
+• JavaScript            • BootStarp
 - 📫 How to reach me https://www.linkedin.com/in/aakash-jha-a11931257
 
 <!---
