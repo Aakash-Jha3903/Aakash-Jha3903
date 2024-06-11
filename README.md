@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aakash Jha
+- 👋 Hi, I’m Aakash Jha (Full Stack Developer)
 - 👀 I’m interested in developing new & useful things, which are functional & helpful.
 - 🌱 Diving into the world of new technologies to broaden my skillset and enhance my problem-solving and development abilities.
 -💡 Technical knowledge 💻  :
