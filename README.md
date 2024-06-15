@@ -4,9 +4,11 @@
 -💡 Technical knowledge 💻  :
 • Python 🐍 (Matplotlib, numpy ,pandas ,etc)        
 • Django                • Mysql
-•  C                    • DSA
 • HTML                  • CSS
 • JavaScript            • BootStarp
+• TailWind CSS          • React ⚛️
+•  C                    • DSA 🧑‍💻
+• Java                  • Object-oriented programming 
 - 📫 How to reach me https://www.linkedin.com/in/aakash-jha-a11931257
 
 <!---
