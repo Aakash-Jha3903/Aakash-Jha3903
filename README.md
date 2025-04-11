@@ -3,10 +3,11 @@
 - 🌱 Diving into the world of new technologies to broaden my skillset and enhance my problem-solving and development abilities.
 -💡 Technical knowledge 💻  :
 • Python 🐍 (Matplotlib, numpy ,pandas ,etc)        
-• Django                • Mysql
+• Django                • Mysql🐬
+• DRF                   • Scikit-Learn🤖 
 • HTML                  • CSS
 • JavaScript            • BootStarp
-• TailWind CSS          • React ⚛️
+• TailWind CSS          • React.js ⚛️
 •  C                    • DSA 🧑‍💻
 • Java                  • Object-oriented programming 
 - 📫 How to reach me https://www.linkedin.com/in/aakash-jha-a11931257
