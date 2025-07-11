@@ -22,9 +22,9 @@ Languages & Frameworks I love to work with:
 
 | 💻 Languages | 🧠 Frameworks & Libraries | 📦 Tools & Technologies |
 |-------------|---------------------------|--------------------------|
-| Python 🐍    | Django, DRF, Scikit-Learn 🤖 | Git, GitHub, VSCode |
+| Python 🐍    | Django, DRF,  | Git, GitHub, VSCode |
 | C, Java ☕   | React.js ⚛️, Bootstrap, Tailwind | Postman, REST APIs |
-| HTML, CSS   | JavaScript (ES6+)          | MySQL 🐬, OOP, DSA 🧑‍💻 |
+| HTML, CSS, JS   |  Scikit-Learn & Tensorflow🤖         | MySQL 🐬, OOP, DSA 🧑‍💻 |
 
 </div>
 
