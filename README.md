@@ -32,3 +32,4 @@ HTML, CSS	JavaScript (ES6+)	MySQL 🐬, OOP, DSA 🧑‍💻
 <p align="center"> <a href="https://www.linkedin.com/in/aakash-jha-a11931257" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a> <a href="https://aakash-jha--portfolio.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/-Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0B72B5&height=150&section=footer"/> </p> <!--- Aakash-Jha3903/Aakash-Jha3903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
 ---
+```
