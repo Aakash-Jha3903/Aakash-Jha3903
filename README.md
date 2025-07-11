@@ -1,55 +1,85 @@
-<h1 align="center">Hi there, I'm Aakash Jha 👋</h1>
+<h1 align="center">Hey there, I'm Aakash Jha 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B72B5&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B72B5&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff" alt="header"/>
 </p>
 
-## 🙏 About Me
-
-I'm **Aakash Jha**, a passionate **Full Stack Developer** who thrives on building innovative, functional, and user-friendly solutions.
-
-- 👀 **Curious Developer:** Always seeking to build meaningful and useful tools.  
-- 🌱 **Lifelong Learner:** Continuously exploring modern tech to improve my skills and problem-solving approach.  
-- ⚡ **Fun Fact:** I enjoy automating repetitive tasks and learning how things work under the hood!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0B72B5&center=true&width=435&lines=Full+Stack+Developer;Problem+Solver+%26+Tech+Explorer;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
-## 💡 Tech Stack & Skills
+## 🙏 About Me
 
-Languages & Frameworks I love to work with:
+I'm **Aakash Jha**, a passionate **Full Stack Developer** who thrives on building innovative, functional, and user-friendly digital products.
+
+- 👀 **Curious Developer** – Always seeking to build meaningful tools.  
+- 🌱 **Lifelong Learner** – Constantly exploring cutting-edge technologies.  
+- ⚡ **Fun Fact** – I enjoy automating boring stuff & diving into systems internals.
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-| 💻 Languages | 🧠 Frameworks & Libraries | 📦 Tools & Technologies |
-|-------------|---------------------------|--------------------------|
-| Python 🐍    | Django, DRF,  | Git, GitHub, VSCode |
-| C, Java ☕   | React.js ⚛️, Bootstrap, Tailwind | Postman, REST APIs |
-| HTML, CSS, JS   |  Scikit-Learn & Tensorflow🤖         | MySQL 🐬, OOP, DSA 🧑‍💻 |
+### 💻 Languages  
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js" />
+
+### ⚙️ Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=django,react,bootstrap,tailwind,fastapi" />  
+<img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow" />
+
+### 🧰 Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,mysql" />
 
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aakash-Jha3903&theme=radical&no-frame=true&margin-w=10&column=7" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aakash-Jha3903&show_icons=true&theme=radical" alt="Aakash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aakash-Jha3903&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash-Jha3903&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aakash-Jha3903&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Jha3903&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Jha3903&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🚀 Featured Projects
+
+<!-- Replace with your actual project links and descriptions -->
+<p align="center">
+  <a href="https://github.com/Aakash-Jha3903/your-cool-project" target="_blank">
+    <img alt="Project" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash-Jha3903&repo=your-cool-project&theme=radical" />
+  </a>
+  <a href="https://github.com/Aakash-Jha3903/another-project" target="_blank">
+    <img alt="Project" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash-Jha3903&repo=another-project&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aakash-jha-a11931257" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://aakash-jha--portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -60,6 +90,6 @@ Languages & Frameworks I love to work with:
 </p>
 
 <!---
-Aakash-Jha3903/Aakash-Jha3903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+✨ This is a special repository because your `README.md` appears on your GitHub profile.
+💡 Update project links, icons, and anything else you'd like to personalize!
 --->
