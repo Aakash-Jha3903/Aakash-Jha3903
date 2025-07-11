@@ -25,14 +25,14 @@ I'm **Aakash Jha**, a passionate **Full Stack Developer** who thrives on buildin
 <div align="center">
 
 ### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript" />
 
 ### ⚙️ Frameworks & Libraries  
-<img src="https://skillicons.dev/icons?i=django,react,bootstrap,tailwind,fastapi" />  
+<img src="https://skillicons.dev/icons?i=django,django REST framework,react,bootstrap,tailwind,flask" />  
 <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow" />
 
 ### 🧰 Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman,mysql" />
 
 </div>
 
@@ -58,19 +58,6 @@ I'm **Aakash Jha**, a passionate **Full Stack Developer** who thrives on buildin
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- Replace with your actual project links and descriptions -->
-<p align="center">
-  <a href="https://github.com/Aakash-Jha3903/your-cool-project" target="_blank">
-    <img alt="Project" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash-Jha3903&repo=your-cool-project&theme=radical" />
-  </a>
-  <a href="https://github.com/Aakash-Jha3903/another-project" target="_blank">
-    <img alt="Project" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash-Jha3903&repo=another-project&theme=radical" />
-  </a>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
